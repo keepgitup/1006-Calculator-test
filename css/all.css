@@ -1,0 +1,36 @@
+@import url("./reset.css");
+@import url("./others.css");
+.container {
+    margin: 30px auto;
+}
+
+.innerPos {
+    display: flex;
+    align-content: center;
+}
+
+table {
+    border: 1px solid lightgray;
+}
+
+td {
+    width: 200px;
+    height: 100px;
+}
+
+input {
+    width: 100px;
+    height: 100px;
+}
+
+.mb-1 {
+    margin-bottom: 8px;
+}
+
+.mb-2 {
+    margin-bottom: 16px;
+}
+
+.mb-4 {
+    margin-bottom: 32px;
+}

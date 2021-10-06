@@ -1,0 +1,15 @@
+/* $a="Verdana, Geneva, Tahoma, sans-serif serif"; */
+
+.title {
+    text-align: center;
+    color: royalblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif serif;
+    font-size: 36px;
+}
+
+
+/*.*/
+
+body {
+    line-height: 24px;
+}
